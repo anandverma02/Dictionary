@@ -1,0 +1,12 @@
+h1{
+    color:#ffa511;
+    font-family: arial;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    background-color: white;
+    letter-spacing: 5px;
+    line-height:1.5;
+    text-decoration: teal double underline;
+    text-transform: uppercase;
+}
