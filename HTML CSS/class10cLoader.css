@@ -1,0 +1,19 @@
+.loader{
+    height:200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 25px solid grey;
+    margin:auto;
+    border-top: 25px solid black;
+    animation: spin 3s linear infinite normal ;
+}
+    
+
+@keyframes spin{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
